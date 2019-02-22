@@ -1,6 +1,7 @@
 import requests
 import re
 import tkinter as tk
+# http://v.douyin.com/YHoPT9/
 #用户名:<p class="name nowrap">(.*?)</p>
 #简介：<p class="desc">(.*?)</p>
 #封面：cover: "(.*?)"
